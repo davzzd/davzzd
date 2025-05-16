@@ -78,9 +78,9 @@ AI-driven travel planner using **Flask**, **FastAPI**, **ML**, and **React**.
 
 ### 📫 Get in Touch
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/david-mathew-mojish-87602026b)
+- 🌐 [View My LinkdIn](https://www.linkedin.com/in/david-mathew-mojish-87602026b)
 - 📧 [davidmathewmojish@gmail.com](mailto:davidmathewmojish@gmail.com)
-- 🌍 [Portfolio Website](https://davidportfolio2109.netlify.app/)
+- 🌍 [View My Portfolio Website](https://davidportfolio2109.netlify.app/)
 
 ---
 
