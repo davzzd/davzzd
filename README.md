@@ -84,6 +84,5 @@ AI-driven travel planner using **Flask**, **FastAPI**, **ML**, and **React**.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davzzd&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
+Thanks for stopping by! Don't forget to ⭐️ your favorite projects.
