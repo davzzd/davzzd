@@ -50,9 +50,9 @@ Git · GitHub · Postman · VS Code · Netlify
 
 ## 📫 Get in Touch
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/david-mathew-mojish-87602026b)
+- 🌐 LinkedIn: [View My LinkedIn](https://www.linkedin.com/in/david-mathew-mojish-87602026b)
 - 📧 Email: [davidmathewmojish@gmail.com](mailto:davidmathewmojish@gmail.com)
-- 🔗 [Portfolio Website](https://davidportfolio2109.netlify.app/)
+- 🔗 Portfolio Website: [View My Portfolio](https://davidportfolio2109.netlify.app/)
 
 ---
 
