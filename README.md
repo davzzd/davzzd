@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Mathew Mojish</h1>
-<h3 align="center">Full-Stack Web Developer | AI Enthusiast | Creative Problem Solver</h3>
+<h3 align="center">Full-Stack Engineer</h3>
 
 ---
 
