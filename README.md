@@ -58,9 +58,6 @@ AI-driven travel planner using **Flask**, **FastAPI**, **ML**, and **React**.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-03AFEF?style=flat&logo=sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spotify%20API-1DB954?style=flat&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/WeatherBit%20API-FF7F50?style=flat&logo=cloud&logoColor=white" />
 </p>
 
 #### ⚙️ Tools & DevOps
